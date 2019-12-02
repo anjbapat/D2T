@@ -1,4 +1,4 @@
-# D2T
+﻿# D2T
  Text generation from structured data
  
 ## This is the project for automatically generating text summary given NBA game box-score.
@@ -44,7 +44,7 @@ To Evaluate:
 
 * small_evaluate.py – Generating some text
 
-Some output files can be found [here](https://drive.google.com/open?id=16ECazJxJbOEaVjrAXVrQ53VkigftQkFY/).
+Some output files can be found [here]( https://drive.google.com/drive/folders/16ECazJxJbOEaVjrAXVrQ53VkigftQkFY?usp=sharing/). 
 
 * Jupyter Notebook- Result_run.ipynb
 
